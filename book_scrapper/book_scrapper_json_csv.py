@@ -6,8 +6,6 @@ import csv
 
 URL = "https://books.toscrape.com/"
 
-
-
 def scrape_book(url):
     response = requests.get(url)
     if response.status_code != 200:
