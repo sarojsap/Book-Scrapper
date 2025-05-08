@@ -17,9 +17,3 @@ A simple Python web scraper that extracts book information (title, price, rating
 - `requests` – for sending HTTP requests
 - `BeautifulSoup` (`bs4`) – for parsing HTML content
 
-## 📦 Requirements
-
-Install the required packages using pip:
-
-```bash
-pip install -r requirements.txt
