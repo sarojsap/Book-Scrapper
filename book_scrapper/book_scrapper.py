@@ -50,7 +50,8 @@ def scrape_book(url):
 
     print("All data Scraped and Saved Successfully.")
 
-create_table()      # Function calling
+# Function calling
+create_table()  
 
 # Calling function: scrape_book()        
 scrape_book(URL)
